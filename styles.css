@@ -24,9 +24,16 @@ p{
     font-size: 26px;
 }
 
-ul, ol{
+/* ul, ol{
     text-align: center;
     align-items: center;
     list-style-position: inside;
     font-size: 20px;
+} */
+
+.list{
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    list-style: inside;
 }
